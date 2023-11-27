@@ -14,7 +14,7 @@ body{
   height: 69px;
   position: fixed;
   top: 0px;
-  width: 100%;
+  width: 1300px;
 }
 
 .logo{
@@ -83,3 +83,78 @@ body{
     margin-left: 170px;
    }
 
+.teas h4{
+  margin-top: 10px
+}
+
+.banner2{
+  background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg?_gl=1*1ozxvjf*_ga*MjExODYwMTMxMy4xNzAxMDM2ODM5*_ga_3LRZM6TM9L*MTcwMTAzNjg1MS4xLjEuMTcwMTAzODA3NS40OS4wLjA.");
+  height: 500px;
+  width: 1200px;
+  display: flex;
+  margin-left: 50px; 
+  
+} 
+
+
+.locations2{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  align-content: center;
+
+  
+}
+
+.lo{
+  background: none;
+  width: 1200px;
+}
+ 
+
+
+.downtown{
+  background-color: black;
+  width: 300px;
+  opacity: 1;
+  margin-left: 100px;
+  margin-right: 20px;
+  margin-top: 15px;
+}
+
+.east{
+  background-color: black;
+  width: 300px;
+  opacity: 1;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 15px;
+}
+
+.oakdale{
+  background-color: black;
+  width: 300px;
+  opacity: 1;
+  margin-left: 20px;
+  margin-right: 120px;
+  margin-top: 15px;
+}
+
+.footer{
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 50px;
+}
+
+.copyright{
+  display: flex;
+  height: 50px;
+  justify-content: flex-start;
+  margin-left: 20px;
+  margin-top: 20px;
+  align-items: flex-end;
+ 
+ 
+}
+ 
